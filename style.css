@@ -1,0 +1,122 @@
+.navbar{
+	padding: 15px;
+}
+.r1{
+	background-color: rgb(10, 170, 191);
+	padding: 30px;
+}
+.r2{
+	background-color: rgb(134, 147, 150);
+	padding: 10px
+}
+.r3{
+	background-color: rgb(35, 150, 131);
+}
+.hrp{
+	padding-bottom: -20;
+}
+.progress-bar{
+	text-align: left; padding-left: 20px
+}
+.progress{
+	padding-bottom: -10px;
+	margin-bottom: 5px;
+
+}
+.container{
+	color: white;
+}
+.ab{
+	color: rgb(10, 170, 191)!important;
+}
+.p3{
+	background-color: rgb(35, 150, 131);
+}
+.p2{
+	background-color: rgb(10, 170, 191);
+}
+.p1{
+	background-color: rgb(0, 27, 38);
+}
+tr:hover{
+	color: black;
+
+}
+.navbar-brand{
+	font-size: 2em;
+}
+.tabl{
+
+	border: 1px;
+	padding: 20px;
+}
+.btn-black{
+	background-color:  rgb(0, 27, 38);
+
+}
+.btn-black:hover{
+	color: background-color:  rgb(0, 27, 38);
+	background-color:  white;
+}
+.text-dark{
+	color: black;
+}
+table, th, td {
+ 
+  border-collapse: collapse;
+  width: 100%;
+}
+.ta1{
+	padding-left: 40px;
+}
+th, td {
+  padding: 8px;
+   border-bottom: 1px solid white;
+  border-bottom-style: dotted;
+}
+.hr1{
+	margin-bottom:-12px;
+	padding-bottom: -12px;
+}
+.si{
+	color:white;
+
+	font-size: 2em;
+	color: rgb(0, 27, 38);
+	display: inline;
+
+}	
+.ui{
+	padding-top: 10px;
+}
+.fa-arrow-up{
+	color: green;
+}
+.fa-twitter-square{
+background-color: ;
+}
+.fi{
+	display: inline;
+	color: green;
+}
+.co{
+	padding: 10px;
+}
+.bl{
+	color: black;
+
+}
+.bl1{
+	color: white;
+}
+
+hr{
+
+}
+.td1>td{
+	padding: 20px;
+}
+.td1{
+	border-bottom: 1px solid white;
+	border-style: dashed;
+}
